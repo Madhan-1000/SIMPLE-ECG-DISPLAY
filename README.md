@@ -33,8 +33,8 @@ Got stuck with Heated CPU:
 ![screenshot](assets/Crazy.png)
 
 Then Its is cool:
-![screenshot](assets/Not Normal.png)
+![screenshot](assets/Not_Normal.png)
 Then It is cooler:
-![screenshot](assets/Maybe Normal.png)
+![screenshot](assets/Maybe_Normal.png)
 Then it is Coolest:
 ![screenshot](assets/Normal.png)
