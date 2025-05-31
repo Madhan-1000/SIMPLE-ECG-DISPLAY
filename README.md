@@ -18,10 +18,10 @@ A simple animated ECG waveform simulation built using HTML5 Canvas and JavaScrip
 ## 📂 File Structure
 ECG-DISPLAY/
 │
-├── index.html          ← Your main HTML file
-├── script.js           ← (Recommended) External JS file (from your <script>)
-├── README.md           ← Description of the project (not really very important! just for formalities)
-└── assets             ← (Optional) Images, icons, etc.
+├── index.html
+├── script.js
+├── README.md
+└── assets
 
 ## 💡 Future Ideas
 
@@ -30,3 +30,4 @@ ECG-DISPLAY/
 ## Some Crazy Moments
 
 Got stuck with Heated CPU:
+![screenshot](assets/Crazy.png)
